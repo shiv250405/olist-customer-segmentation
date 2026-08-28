@@ -1,4 +1,4 @@
-# olist-customer-segmentation-RFM Analysis# Olist Customer Segmentation - RFM Analysis
+# Olist customer segmentation-RFM Analysis
 
 ## 📌 Project Overview
 This project segments Olist e-commerce customers using RFM (Recency, Frequency, Monetary) analysis and K-Means Clustering to identify valuable customer groups for targeted marketing.
@@ -20,9 +20,9 @@ Olist Brazilian E-commerce Dataset (100k orders)
 5. Need Attention
 
 ## 📁 Files
-- `Untitled2.ipynb` - Complete analysis notebook
+- `Olist_Customer_Segmentation.ipynb` - Complete analysis notebook
 - `kmeans_model.pkl` - Trained KMeans model
-- `my_segments.csv` - Customer segments output
+- `customer_segments.csv` - Customer segments output
 
 ## 🚀 How to Run
 1. Open notebook in Google Colab
